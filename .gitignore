@@ -1,0 +1,12 @@
+### `.gitignore`
+
+```gitignore
+.env
+*.env
+credentials.json
+secrets.json
+*.key
+*.pem
+node_modules/
+.n8n/
+.DS_Store
